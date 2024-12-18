@@ -1,0 +1,25 @@
+{
+  "name": "@musasutisna/nodco-email",
+  "version": "1.0.0",
+  "description": "make easier configuration nodejs configuration intergration with email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musasutisna/nodco-email.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Musa Sutisna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musasutisna/nodco-email/issues"
+  },
+  "homepage": "https://github.com/musasutisna/nodco-email#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
+}
