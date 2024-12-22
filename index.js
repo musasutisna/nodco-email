@@ -28,6 +28,7 @@ module.exports = function nodcoEmailConfig(config = {}) {
         port: option.port,
         secure: option.secure,
         pool: option.pool,
+        tls: option.tls,
         auth: {
           type: 'custom',
           method: 'MY-CUSTOM-METHOD',

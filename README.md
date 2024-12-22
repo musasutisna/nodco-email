@@ -21,6 +21,7 @@ nodcoEmailConfig(
     port, // number, email port
     secure, // boolean, email secure mode
     pool, // boolean, email pool mode
+    tls, // mixed, allow to add tls mode
     username, // string, email user username
     password, // string, email user password
     options  // object, option will be pass and combine into every payload on send email
